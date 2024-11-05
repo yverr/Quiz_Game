@@ -4,7 +4,6 @@ public class Main{
     public static void main(String[] args) {
 
         // The do-while loop is unecessary, but it was required by the challenge, feel free to ignore the do-while loop. 
-        // It's only purpose is to repeat the question when the answer is wrong(very unecessay, but it's the challenge).
 
         Scanner scan = new Scanner(System.in);
 
